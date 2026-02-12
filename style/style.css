@@ -1,0 +1,21 @@
+ul{
+    background-color: aqua;
+    font-size: larger;
+}
+.blog p{
+    background-color:bisque;
+    padding: 10px;
+    text-align: justify;
+}
+.displayTest{
+    /* visibility: hidden; */
+    /* display: none; */
+    text-decoration:overline;
+    border: 5px solid green;
+    box-shadow: 5px 5px 10px yellow;
+    background-image: url(../media/images/banner/banner1.png);
+    background-size:100px;
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+    /* background-repeat: calc(); */
+}
